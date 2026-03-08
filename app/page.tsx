@@ -30,7 +30,7 @@ export default function Home() {
           lineHeight: "1.6",
         }}
       >
-        ようこそ！これはNext.js（App Router）で作られたシンプルなWebアプリケーションです。
+        うこそ！これはNext.js（App Router）で作られたシンプルなWebアプリケーションです。
         React と Next.js を使用した最小限の構成で実装されています。
       </p>
     </main>
